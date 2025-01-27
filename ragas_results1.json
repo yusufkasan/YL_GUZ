@@ -1,0 +1,5252 @@
+[
+    {
+        "soru": "Ali son gün kaç sayfa kitap okumuştur?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.20290679330461134
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali son gün kaç sayfa kitap okumuştur?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.14285714285714285
+            ],
+            "answer_relevancy": [
+                0.8257115976551536
+            ],
+            "answer_correctness": [
+                0.20135937898034792
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali son gün kaç sayfa kitap okumuştur?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5454545454545454
+            ],
+            "answer_relevancy": [
+                0.9339079105550888
+            ],
+            "answer_correctness": [
+                0.20472378687813161
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali son gün kaç sayfa kitap okumuştur?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8927369497747536
+            ],
+            "answer_correctness": [
+                0.20345960706683414
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali son gün kaç sayfa kitap okumuştur?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9300680656219402
+            ],
+            "answer_correctness": [
+                0.41921755434826297
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "En yüksek oyu alan başkan seçileceğine göre, sınıf başkanı kim seçilmiştir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.8826028215564267
+            ],
+            "answer_correctness": [
+                0.19970367956291296
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "En yüksek oyu alan başkan seçileceğine göre, sınıf başkanı kim seçilmiştir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8439806577707297
+            ],
+            "answer_correctness": [
+                0.31789178273249497
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "En yüksek oyu alan başkan seçileceğine göre, sınıf başkanı kim seçilmiştir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.8319355232686182
+            ],
+            "answer_correctness": [
+                0.20564421383240034
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "En yüksek oyu alan başkan seçileceğine göre, sınıf başkanı kim seçilmiştir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.625
+            ],
+            "answer_relevancy": [
+                0.8058696155490068
+            ],
+            "answer_correctness": [
+                0.3581879816228801
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "En yüksek oyu alan başkan seçileceğine göre, sınıf başkanı kim seçilmiştir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.20113461398587545
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf'un 50 dakikada işe vardığı bilindiğine göre ikinci vasıtada yolda geçirdiği süre ne kadardır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.25
+            ],
+            "answer_relevancy": [
+                0.8931684857568989
+            ],
+            "answer_correctness": [
+                0.3352443816974082
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf'un 50 dakikada işe vardığı bilindiğine göre ikinci vasıtada yolda geçirdiği süre ne kadardır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.49786020066439096
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf'un 50 dakikada işe vardığı bilindiğine göre ikinci vasıtada yolda geçirdiği süre ne kadardır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8908590993595923
+            ],
+            "answer_correctness": [
+                0.49305483753185364
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf'un 50 dakikada işe vardığı bilindiğine göre ikinci vasıtada yolda geçirdiği süre ne kadardır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.2
+            ],
+            "answer_relevancy": [
+                0.9324857616405504
+            ],
+            "answer_correctness": [
+                0.41115514145166165
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf'un 50 dakikada işe vardığı bilindiğine göre ikinci vasıtada yolda geçirdiği süre ne kadardır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6
+            ],
+            "answer_relevancy": [
+                0.9219217597063327
+            ],
+            "answer_correctness": [
+                0.6278122398983623
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Son durumda manavda kaç elma ve kaç portakal vardır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9433167445489961
+            ],
+            "answer_correctness": [
+                0.22049609705781947
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Son durumda manavda kaç elma ve kaç portakal vardır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.995850456770459
+            ],
+            "answer_correctness": [
+                0.2934275548257309
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Son durumda manavda kaç elma ve kaç portakal vardır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.4444444444444444
+            ],
+            "answer_relevancy": [
+                0.9435719155341259
+            ],
+            "answer_correctness": [
+                0.2146914618422609
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Son durumda manavda kaç elma ve kaç portakal vardır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5294117647058824
+            ],
+            "answer_relevancy": [
+                0.9306589386623253
+            ],
+            "answer_correctness": [
+                0.4494072866443076
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Son durumda manavda kaç elma ve kaç portakal vardır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.9
+            ],
+            "answer_relevancy": [
+                0.8134763758588847
+            ],
+            "answer_correctness": [
+                0.5615956197767835
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sadece bir kişi doğru söylediğine göre kalemi kim çalmıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.8197832940500457
+            ],
+            "answer_correctness": [
+                0.21371226159252196
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sadece bir kişi doğru söylediğine göre kalemi kim çalmıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.21428571428571427
+            ],
+            "answer_relevancy": [
+                0.7919102825450586
+            ],
+            "answer_correctness": [
+                0.3867371746020253
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sadece bir kişi doğru söylediğine göre kalemi kim çalmıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.8482813694503135
+            ],
+            "answer_correctness": [
+                0.20296887532922137
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sadece bir kişi doğru söylediğine göre kalemi kim çalmıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.18181818181818182
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.2032525956387151
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sadece bir kişi doğru söylediğine göre kalemi kim çalmıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.2044153408082791
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar çıkarılması gerekir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.8878802919866291
+            ],
+            "answer_correctness": [
+                0.22109642642942795
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar çıkarılması gerekir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8
+            ],
+            "answer_relevancy": [
+                0.8082063629316436
+            ],
+            "answer_correctness": [
+                0.407758378786869
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar çıkarılması gerekir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.2222222222222222
+            ],
+            "answer_relevancy": [
+                0.9024105007007953
+            ],
+            "answer_correctness": [
+                0.2171525066168567
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar çıkarılması gerekir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.9116212331128414
+            ],
+            "answer_correctness": [
+                0.46764340836269075
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar çıkarılması gerekir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8
+            ],
+            "answer_relevancy": [
+                0.8248387849367954
+            ],
+            "answer_correctness": [
+                0.33017753701042374
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bilalin yemek parası ve şirketin taban fiyat uygulaması ile alacağı son para ne kadar olur?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.914125051803159
+            ],
+            "answer_correctness": [
+                0.5746144625839924
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bilalin yemek parası ve şirketin taban fiyat uygulaması ile alacağı son para ne kadar olur?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8366087702893193
+            ],
+            "answer_correctness": [
+                0.4186631918006939
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bilalin yemek parası ve şirketin taban fiyat uygulaması ile alacağı son para ne kadar olur?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8413748772258612
+            ],
+            "answer_correctness": [
+                0.3174087532687869
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bilalin yemek parası ve şirketin taban fiyat uygulaması ile alacağı son para ne kadar olur?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9124532609479669
+            ],
+            "answer_correctness": [
+                0.34026346010097935
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bilalin yemek parası ve şirketin taban fiyat uygulaması ile alacağı son para ne kadar olur?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8333333333333334
+            ],
+            "answer_relevancy": [
+                0.8554723343178011
+            ],
+            "answer_correctness": [
+                0.5774003047206063
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bu yazar 2024 yılından 2025 yılına kadar hangi temayı daha fazla kullanmıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.8149747121422474
+            ],
+            "answer_correctness": [
+                0.5746144625839924
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bu yazar 2024 yılından 2025 yılına kadar hangi temayı daha fazla kullanmıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8017637415839479
+            ],
+            "answer_correctness": [
+                0.5998571476452309
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bu yazar 2024 yılından 2025 yılına kadar hangi temayı daha fazla kullanmıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.6440044151650501
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bu yazar 2024 yılından 2025 yılına kadar hangi temayı daha fazla kullanmıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.924774182872374
+            ],
+            "answer_correctness": [
+                0.5929531238978348
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bu yazar 2024 yılından 2025 yılına kadar hangi temayı daha fazla kullanmıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8243527755118376
+            ],
+            "answer_correctness": [
+                0.5947612172474523
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Raftaki şiir kitabı sayısı kaçtır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.919239249924618
+            ],
+            "answer_correctness": [
+                0.2170295849440911
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Raftaki şiir kitabı sayısı kaçtır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.9444444444444444
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.20432284880188173
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Raftaki şiir kitabı sayısı kaçtır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.17647058823529413
+            ],
+            "answer_relevancy": [
+                0.834395678311869
+            ],
+            "answer_correctness": [
+                0.2059158772451785
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Raftaki şiir kitabı sayısı kaçtır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.7753060590184099
+            ],
+            "answer_correctness": [
+                0.6047756851026256
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Raftaki şiir kitabı sayısı kaçtır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8137873605105791
+            ],
+            "answer_correctness": [
+                0.22252545355424655
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih beş yılda aldığı kilolar dışında ne kadar kilo kaybetmiştir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.917010586736671
+            ],
+            "answer_correctness": [
+                0.7091225094642941
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih beş yılda aldığı kilolar dışında ne kadar kilo kaybetmiştir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.875
+            ],
+            "answer_relevancy": [
+                0.9916420255013918
+            ],
+            "answer_correctness": [
+                0.3514283529863039
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih beş yılda aldığı kilolar dışında ne kadar kilo kaybetmiştir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9363340884362756
+            ],
+            "answer_correctness": [
+                0.19793153090622836
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih beş yılda aldığı kilolar dışında ne kadar kilo kaybetmiştir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.46153846153846156
+            ],
+            "answer_relevancy": [
+                0.946943952134275
+            ],
+            "answer_correctness": [
+                0.30437977647777326
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih beş yılda aldığı kilolar dışında ne kadar kilo kaybetmiştir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9561843919242436
+            ],
+            "answer_correctness": [
+                0.4145859995727147
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali bir haftada toplam kaç kat merdiven inip çıkmıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.20550401566863066
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali bir haftada toplam kaç kat merdiven inip çıkmıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.09090909090909091
+            ],
+            "answer_relevancy": [
+                0.9587420996024932
+            ],
+            "answer_correctness": [
+                0.3423566363453189
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali bir haftada toplam kaç kat merdiven inip çıkmıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6
+            ],
+            "answer_relevancy": [
+                0.9102613313014735
+            ],
+            "answer_correctness": [
+                0.5171353387557611
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali bir haftada toplam kaç kat merdiven inip çıkmıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.16666666666666666
+            ],
+            "answer_relevancy": [
+                0.9347436970180599
+            ],
+            "answer_correctness": [
+                0.3675157548417026
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali bir haftada toplam kaç kat merdiven inip çıkmıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.875
+            ],
+            "answer_relevancy": [
+                0.9410132837001735
+            ],
+            "answer_correctness": [
+                0.31960155626829756
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En yüksek 2. notu alan öğrenci kimdir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9198151998126516
+            ],
+            "answer_correctness": [
+                0.23027036573034423
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En yüksek 2. notu alan öğrenci kimdir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5555555555555556
+            ],
+            "answer_relevancy": [
+                0.8661118808133437
+            ],
+            "answer_correctness": [
+                0.35814049430793093
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En yüksek 2. notu alan öğrenci kimdir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6
+            ],
+            "answer_relevancy": [
+                0.8980718436538527
+            ],
+            "answer_correctness": [
+                0.5472015379236519
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En yüksek 2. notu alan öğrenci kimdir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.9198151998126516
+            ],
+            "answer_correctness": [
+                0.22519080911296055
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En yüksek 2. notu alan öğrenci kimdir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.21143078389589018
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yıllarında ortalama buğday üretimi ne kadardır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.2
+            ],
+            "answer_relevancy": [
+                0.832060882075365
+            ],
+            "answer_correctness": [
+                0.4259918721709598
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yıllarında ortalama buğday üretimi ne kadardır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9126463016918619
+            ],
+            "answer_correctness": [
+                0.5117206706489292
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yıllarında ortalama buğday üretimi ne kadardır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9126463016918619
+            ],
+            "answer_correctness": [
+                0.4568195474636922
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yıllarında ortalama buğday üretimi ne kadardır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8477031976256582
+            ],
+            "answer_correctness": [
+                0.5085952904789423
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yıllarında ortalama buğday üretimi ne kadardır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9049425695973703
+            ],
+            "answer_correctness": [
+                0.512411876774391
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus en fazladır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.8852292228494555
+            ],
+            "answer_correctness": [
+                0.20300054797095654
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus en fazladır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5384615384615384
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.4737322766867521
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus en fazladır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.9215937319057814
+            ],
+            "answer_correctness": [
+                0.2093968603678399
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus en fazladır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.9036551147222864
+            ],
+            "answer_correctness": [
+                0.5818903737682706
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus en fazladır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.22353263468733603
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete ilk ve son giren meyve veya sebze hangileridir? ",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9244701392875075
+            ],
+            "answer_correctness": [
+                0.21408740742528454
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete ilk ve son giren meyve veya sebze hangileridir? ",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.16666666666666666
+            ],
+            "answer_relevancy": [
+                0.9196308740851147
+            ],
+            "answer_correctness": [
+                0.21166563860364213
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete ilk ve son giren meyve veya sebze hangileridir? ",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.8702009565634929
+            ],
+            "answer_correctness": [
+                0.21232785191441159
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete ilk ve son giren meyve veya sebze hangileridir? ",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8629911773684068
+            ],
+            "answer_correctness": [
+                0.2168494551004907
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete ilk ve son giren meyve veya sebze hangileridir? ",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.861793342599654
+            ],
+            "answer_correctness": [
+                0.5160223266672262
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020 yılından beri buğday üretimi ilk kez hangi yılda bir önceki yıla göre düşüş sağlamıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8700015823838397
+            ],
+            "answer_correctness": [
+                0.508495547118154
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020 yılından beri buğday üretimi ilk kez hangi yılda bir önceki yıla göre düşüş sağlamıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.7670254089358863
+            ],
+            "answer_correctness": [
+                0.9885753418835964
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020 yılından beri buğday üretimi ilk kez hangi yılda bir önceki yıla göre düşüş sağlamıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8333333333333334
+            ],
+            "answer_relevancy": [
+                0.870910650120266
+            ],
+            "answer_correctness": [
+                0.42179418958011716
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020 yılından beri buğday üretimi ilk kez hangi yılda bir önceki yıla göre düşüş sağlamıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.7142857142857143
+            ],
+            "answer_relevancy": [
+                0.8793207350378377
+            ],
+            "answer_correctness": [
+                0.3757978159512349
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020 yılından beri buğday üretimi ilk kez hangi yılda bir önceki yıla göre düşüş sağlamıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9062378240107939
+            ],
+            "answer_correctness": [
+                0.9632868430798451
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet bu hafta toplam kaç kilometre yol gitmiştir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6
+            ],
+            "answer_relevancy": [
+                0.9584394203006816
+            ],
+            "answer_correctness": [
+                0.3187104701935613
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet bu hafta toplam kaç kilometre yol gitmiştir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.4
+            ],
+            "answer_relevancy": [
+                0.9215155078155303
+            ],
+            "answer_correctness": [
+                0.19449922421935417
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet bu hafta toplam kaç kilometre yol gitmiştir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3076923076923077
+            ],
+            "answer_relevancy": [
+                0.8980107259989133
+            ],
+            "answer_correctness": [
+                0.3778788656786408
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet bu hafta toplam kaç kilometre yol gitmiştir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5333333333333333
+            ],
+            "answer_relevancy": [
+                0.9110942112426613
+            ],
+            "answer_correctness": [
+                0.2818944926312555
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet bu hafta toplam kaç kilometre yol gitmiştir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5555555555555556
+            ],
+            "answer_relevancy": [
+                0.9560715630456121
+            ],
+            "answer_correctness": [
+                0.3272902540254701
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ayşe'nin almayı unuttuğu ürün nedir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.7976020076791323
+            ],
+            "answer_correctness": [
+                0.20308022242773693
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ayşe'nin almayı unuttuğu ürün nedir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.25
+            ],
+            "answer_relevancy": [
+                0.9145411885833545
+            ],
+            "answer_correctness": [
+                0.5013289727154724
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ayşe'nin almayı unuttuğu ürün nedir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9165088046249451
+            ],
+            "answer_correctness": [
+                0.19762034252030805
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ayşe'nin almayı unuttuğu ürün nedir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8713968212936414
+            ],
+            "answer_correctness": [
+                0.20085337074801507
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ayşe'nin almayı unuttuğu ürün nedir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9546980746325374
+            ],
+            "answer_correctness": [
+                0.9469286305013036
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali programı dahilinde kaç adet soru çözmüştür?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9184889833698439
+            ],
+            "answer_correctness": [
+                0.2124699461430848
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali programı dahilinde kaç adet soru çözmüştür?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9116327952730113
+            ],
+            "answer_correctness": [
+                0.21476221411527258
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali programı dahilinde kaç adet soru çözmüştür?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.36363636363636365
+            ],
+            "answer_relevancy": [
+                0.9106134936196092
+            ],
+            "answer_correctness": [
+                0.20541633024262973
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali programı dahilinde kaç adet soru çözmüştür?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.885374120298454
+            ],
+            "answer_correctness": [
+                0.20748171981798919
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali programı dahilinde kaç adet soru çözmüştür?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.9036629157297162
+            ],
+            "answer_correctness": [
+                0.5195959732265361
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Hangi çanta hangi öğrenciye aittir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5555555555555556
+            ],
+            "answer_relevancy": [
+                0.8264094569354871
+            ],
+            "answer_correctness": [
+                0.36118328480010237
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "soru": "Hangi çanta hangi öğrenciye aittir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.25
+            ],
+            "answer_relevancy": [
+                0.8209651833584367
+            ],
+            "answer_correctness": [
+                0.5548601171114294
+            ],
+            "context_precision": [
+                0.699999999965
+            ],
+            "context_recall": [
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "soru": "Hangi çanta hangi öğrenciye aittir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8674270984141875
+            ],
+            "answer_correctness": [
+                0.36834646874382365
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "soru": "Hangi çanta hangi öğrenciye aittir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8101676684537557
+            ],
+            "answer_correctness": [
+                0.6074860304067835
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "soru": "Hangi çanta hangi öğrenciye aittir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8571428571428571
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.315685656651568
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.3333333333333333
+            ]
+        }
+    },
+    {
+        "soru": "Seçimlerde en az oyu alan kimdir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9278627002062415
+            ],
+            "answer_correctness": [
+                0.20711085212319713
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçimlerde en az oyu alan kimdir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.3774808976820524
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçimlerde en az oyu alan kimdir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.7142857142857143
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.19987983646027266
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçimlerde en az oyu alan kimdir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8484732572268706
+            ],
+            "answer_correctness": [
+                0.39256829435165136
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçimlerde en az oyu alan kimdir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8159205665138815
+            ],
+            "answer_correctness": [
+                0.3431305984257036
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete baştan sona girilen meyve ve sebzelerin sırası nedir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.8646173621766655
+            ],
+            "answer_correctness": [
+                0.5129310857924226
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete baştan sona girilen meyve ve sebzelerin sırası nedir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8297008618274218
+            ],
+            "answer_correctness": [
+                0.2303776170540875
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete baştan sona girilen meyve ve sebzelerin sırası nedir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.832990134878567
+            ],
+            "answer_correctness": [
+                0.21673567767852042
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete baştan sona girilen meyve ve sebzelerin sırası nedir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.8569422251715283
+            ],
+            "answer_correctness": [
+                0.41562391755742867
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepete baştan sona girilen meyve ve sebzelerin sırası nedir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8181334539147979
+            ],
+            "answer_correctness": [
+                0.22328547951555675
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepette kaç elma ve kaç muz kalmıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9661503882217012
+            ],
+            "answer_correctness": [
+                0.22139420943323876
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepette kaç elma ve kaç muz kalmıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8144964961187937
+            ],
+            "answer_correctness": [
+                0.4320424213160339
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepette kaç elma ve kaç muz kalmıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9661503882217012
+            ],
+            "answer_correctness": [
+                0.23601639792571646
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepette kaç elma ve kaç muz kalmıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.832609825437967
+            ],
+            "answer_correctness": [
+                0.5991633559321927
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepette kaç elma ve kaç muz kalmıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8144964961187937
+            ],
+            "answer_correctness": [
+                0.4337516988575143
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Kutuda kaç çikolata kalmıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9769922717678127
+            ],
+            "answer_correctness": [
+                0.2183805271449466
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kutuda kaç çikolata kalmıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.7142857142857143
+            ],
+            "answer_relevancy": [
+                0.9305463031322535
+            ],
+            "answer_correctness": [
+                0.3779182842654633
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kutuda kaç çikolata kalmıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8289299919422763
+            ],
+            "answer_correctness": [
+                0.20832490653980054
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kutuda kaç çikolata kalmıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8623136572466543
+            ],
+            "answer_correctness": [
+                0.3772336452095301
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kutuda kaç çikolata kalmıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9587250133858651
+            ],
+            "answer_correctness": [
+                0.42941037792263265
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında hangi yıl nüfuz azalmıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8615619694130429
+            ],
+            "answer_correctness": [
+                0.5991694009573644
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında hangi yıl nüfuz azalmıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.7842229079738084
+            ],
+            "answer_correctness": [
+                0.4826308808403043
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.5
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında hangi yıl nüfuz azalmıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.25
+            ],
+            "answer_relevancy": [
+                0.8640404576132972
+            ],
+            "answer_correctness": [
+                0.4346373358149564
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.5
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında hangi yıl nüfuz azalmıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8702187559078639
+            ],
+            "answer_correctness": [
+                0.21651036362255704
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.5
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında hangi yıl nüfuz azalmıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.8121661651593918
+            ],
+            "answer_correctness": [
+                0.22162065992677632
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.5
+            ]
+        }
+    },
+    {
+        "soru": "Hastaneye son çağrılacak kimdir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.7709449412547397
+            ],
+            "answer_correctness": [
+                0.20528621516041462
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastaneye son çağrılacak kimdir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.7709449412547397
+            ],
+            "answer_correctness": [
+                0.20217409634155717
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastaneye son çağrılacak kimdir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5714285714285714
+            ],
+            "answer_relevancy": [
+                0.8628943919058795
+            ],
+            "answer_correctness": [
+                0.21427934520085773
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastaneye son çağrılacak kimdir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.87245602413762
+            ],
+            "answer_correctness": [
+                0.4317843512430025
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastaneye son çağrılacak kimdir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.932948259389668
+            ],
+            "answer_correctness": [
+                0.21774011423175071
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali her gün en fazla kitabı okuduğu gün kadar kitap okusaydı kaç günde kitabını bitirirdi?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.11764705882352941
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.2016386304791814
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali her gün en fazla kitabı okuduğu gün kadar kitap okusaydı kaç günde kitabını bitirirdi?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5555555555555556
+            ],
+            "answer_relevancy": [
+                0.906503821494347
+            ],
+            "answer_correctness": [
+                0.20073592132758356
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali her gün en fazla kitabı okuduğu gün kadar kitap okusaydı kaç günde kitabını bitirirdi?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.2857142857142857
+            ],
+            "answer_relevancy": [
+                0.8988537227798928
+            ],
+            "answer_correctness": [
+                0.20635957711330613
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali her gün en fazla kitabı okuduğu gün kadar kitap okusaydı kaç günde kitabını bitirirdi?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9655768429453427
+            ],
+            "answer_correctness": [
+                0.2180139668899428
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali her gün en fazla kitabı okuduğu gün kadar kitap okusaydı kaç günde kitabını bitirirdi?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8333333333333334
+            ],
+            "answer_relevancy": [
+                0.9078773356966394
+            ],
+            "answer_correctness": [
+                0.21153655257740972
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Makine hafta içi en son hangi gün çalıştırılmıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.8527663641107056
+            ],
+            "answer_correctness": [
+                0.9707942719049266
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Makine hafta içi en son hangi gün çalıştırılmıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.8422561955184781
+            ],
+            "answer_correctness": [
+                0.37691816943653866
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Makine hafta içi en son hangi gün çalıştırılmıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.4
+            ],
+            "answer_relevancy": [
+                0.8000111748603526
+            ],
+            "answer_correctness": [
+                0.20811668169490583
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Makine hafta içi en son hangi gün çalıştırılmıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.42857142857142855
+            ],
+            "answer_relevancy": [
+                0.8516431288599784
+            ],
+            "answer_correctness": [
+                0.3979054884603342
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Makine hafta içi en son hangi gün çalıştırılmıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8333333333333334
+            ],
+            "answer_relevancy": [
+                0.8352827837905116
+            ],
+            "answer_correctness": [
+                0.42728940223356937
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih diyet sürecine başladıktan sonra beş yıl sonunda ilk kilosundan ne kadar kaybetmiştir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9255283538427629
+            ],
+            "answer_correctness": [
+                0.19974624413426093
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih diyet sürecine başladıktan sonra beş yıl sonunda ilk kilosundan ne kadar kaybetmiştir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8571428571428571
+            ],
+            "answer_relevancy": [
+                0.8367404910681749
+            ],
+            "answer_correctness": [
+                0.1982442404831064
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih diyet sürecine başladıktan sonra beş yıl sonunda ilk kilosundan ne kadar kaybetmiştir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3
+            ],
+            "answer_relevancy": [
+                0.9234630447947092
+            ],
+            "answer_correctness": [
+                0.19707004734533284
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih diyet sürecine başladıktan sonra beş yıl sonunda ilk kilosundan ne kadar kaybetmiştir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6923076923076923
+            ],
+            "answer_relevancy": [
+                0.9211987930750792
+            ],
+            "answer_correctness": [
+                0.1973826572063654
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Salih diyet sürecine başladıktan sonra beş yıl sonunda ilk kilosundan ne kadar kaybetmiştir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.9118516221121874
+            ],
+            "answer_correctness": [
+                0.20602383716409356
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında en yüksek buğday üretimi hangi yıl olmuştur?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9255601959291911
+            ],
+            "answer_correctness": [
+                0.7143935794079601
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında en yüksek buğday üretimi hangi yıl olmuştur?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8494828135341161
+            ],
+            "answer_correctness": [
+                0.5885576021965597
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında en yüksek buğday üretimi hangi yıl olmuştur?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5555555555555556
+            ],
+            "answer_relevancy": [
+                0.9481081342100265
+            ],
+            "answer_correctness": [
+                0.3412764442065568
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında en yüksek buğday üretimi hangi yıl olmuştur?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8171973330593157
+            ],
+            "answer_correctness": [
+                0.716126381318411
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında en yüksek buğday üretimi hangi yıl olmuştur?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9154104517246329
+            ],
+            "answer_correctness": [
+                0.9680565457975182
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastanede ilk çağırılacak kimdir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8070754494860447
+            ],
+            "answer_correctness": [
+                0.21849919891784214
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastanede ilk çağırılacak kimdir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.7584245599834433
+            ],
+            "answer_correctness": [
+                0.21532465409211765
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastanede ilk çağırılacak kimdir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8675556559488603
+            ],
+            "answer_correctness": [
+                0.5238134687923722
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastanede ilk çağırılacak kimdir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.21700550899298737
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Hastanede ilk çağırılacak kimdir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9583927276719351
+            ],
+            "answer_correctness": [
+                0.9814433339793864
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": " En düşük notu alan öğrenci kimdir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9168415675547564
+            ],
+            "answer_correctness": [
+                0.2334716827054325
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En düşük notu alan öğrenci kimdir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8571428571428571
+            ],
+            "answer_relevancy": [
+                0.9215408586060464
+            ],
+            "answer_correctness": [
+                0.3659775257831543
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En düşük notu alan öğrenci kimdir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.42857142857142855
+            ],
+            "answer_relevancy": [
+                0.9168415675547564
+            ],
+            "answer_correctness": [
+                0.5175229644071023
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En düşük notu alan öğrenci kimdir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9168415675547564
+            ],
+            "answer_correctness": [
+                0.23143335378351435
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": " En düşük notu alan öğrenci kimdir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.21607720549166573
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en azdır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.92933647195126
+            ],
+            "answer_correctness": [
+                0.9729856389575536
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en azdır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.7636644321636634
+            ],
+            "answer_correctness": [
+                0.23966176240331025
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en azdır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8954438245772481
+            ],
+            "answer_correctness": [
+                0.7076777568774232
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en azdır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8333333333333334
+            ],
+            "answer_relevancy": [
+                0.9439082253561489
+            ],
+            "answer_correctness": [
+                0.20873705422377148
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en azdır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.7621011305574948
+            ],
+            "answer_correctness": [
+                0.23937579373303475
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali yaptığı programa uydu mu?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8131000937240733
+            ],
+            "answer_correctness": [
+                0.2044196169842179
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali yaptığı programa uydu mu?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.16666666666666666
+            ],
+            "answer_relevancy": [
+                0.8240881916784716
+            ],
+            "answer_correctness": [
+                0.31586168826030186
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali yaptığı programa uydu mu?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.8638503459520251
+            ],
+            "answer_correctness": [
+                0.20387006296244126
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali yaptığı programa uydu mu?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.787250342813341
+            ],
+            "answer_correctness": [
+                0.513000890906796
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Ali yaptığı programa uydu mu?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.7142857142857143
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.5110212051206364
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.9480297812206602
+            ],
+            "answer_correctness": [
+                0.7152884011250731
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.625
+            ],
+            "answer_relevancy": [
+                0.8809600854019667
+            ],
+            "answer_correctness": [
+                0.35644235837228566
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.25
+            ],
+            "answer_relevancy": [
+                0.8744560537634009
+            ],
+            "answer_correctness": [
+                0.5904426505213654
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9101606029601369
+            ],
+            "answer_correctness": [
+                0.36650459753618103
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9308979359141415
+            ],
+            "answer_correctness": [
+                0.977656484002662
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında toplam kaç ton buğday üretilmiştir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9119695399554292
+            ],
+            "answer_correctness": [
+                0.18912699322432272
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında toplam kaç ton buğday üretilmiştir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8608042520527116
+            ],
+            "answer_correctness": [
+                0.38782231356394214
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında toplam kaç ton buğday üretilmiştir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9114019884659227
+            ],
+            "answer_correctness": [
+                0.32139746990673745
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında toplam kaç ton buğday üretilmiştir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.907060250140336
+            ],
+            "answer_correctness": [
+                0.3556321441947443
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2020-2024 yılları arasında toplam kaç ton buğday üretilmiştir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9119695399554292
+            ],
+            "answer_correctness": [
+                0.1925166305252444
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Otobüste şu an kaç kadın ve kaç erkek yolcu bulunmaktadır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8421052631578947
+            ],
+            "answer_relevancy": [
+                0.9475115246954878
+            ],
+            "answer_correctness": [
+                0.3993335749563154
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Otobüste şu an kaç kadın ve kaç erkek yolcu bulunmaktadır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6
+            ],
+            "answer_relevancy": [
+                0.8597823425242845
+            ],
+            "answer_correctness": [
+                0.21256765237523756
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Otobüste şu an kaç kadın ve kaç erkek yolcu bulunmaktadır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.46153846153846156
+            ],
+            "answer_relevancy": [
+                0.8013753226055127
+            ],
+            "answer_correctness": [
+                0.21576364390217245
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Otobüste şu an kaç kadın ve kaç erkek yolcu bulunmaktadır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.856060593550915
+            ],
+            "answer_correctness": [
+                0.5137449940647131
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Otobüste şu an kaç kadın ve kaç erkek yolcu bulunmaktadır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9515619914922407
+            ],
+            "answer_correctness": [
+                0.23457518712213193
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en fazladır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9319385782338263
+            ],
+            "answer_correctness": [
+                0.21418626610113348
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en fazladır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.7655341264183169
+            ],
+            "answer_correctness": [
+                0.23663206594497138
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en fazladır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9077638861000366
+            ],
+            "answer_correctness": [
+                0.20634666698960885
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en fazladır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.9441481302525297
+            ],
+            "answer_correctness": [
+                0.41877823629516586
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Türkiye'de 2019-2023 yılları arasında, hangi yıl nüfus artış oranı en fazladır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8452145523003621
+            ],
+            "answer_correctness": [
+                0.21910572832990585
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "İkinci kişi üç ve dördüncü soruyu yanlış cevapladığına göre yarışmayı kim kazanmıştır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6875
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.21192486485368922
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "İkinci kişi üç ve dördüncü soruyu yanlış cevapladığına göre yarışmayı kim kazanmıştır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.2222222222222222
+            ],
+            "answer_relevancy": [
+                0.8098547989363079
+            ],
+            "answer_correctness": [
+                0.3528443624939239
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "İkinci kişi üç ve dördüncü soruyu yanlış cevapladığına göre yarışmayı kim kazanmıştır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.2113512790377327
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "İkinci kişi üç ve dördüncü soruyu yanlış cevapladığına göre yarışmayı kim kazanmıştır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8628907236062461
+            ],
+            "answer_correctness": [
+                0.4314683895832082
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "İkinci kişi üç ve dördüncü soruyu yanlış cevapladığına göre yarışmayı kim kazanmıştır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.8923596348456647
+            ],
+            "answer_correctness": [
+                0.6014241772531242
+            ],
+            "context_precision": [
+                0.19999999998
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "son durumda bahçedeki elma ve portakal ağaçlarının sayısı nedir.",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.9444444444444444
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.214553862281388
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "son durumda bahçedeki elma ve portakal ağaçlarının sayısı nedir.",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.9079883069523804
+            ],
+            "answer_correctness": [
+                0.21478232864372487
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "son durumda bahçedeki elma ve portakal ağaçlarının sayısı nedir.",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9252475228648079
+            ],
+            "answer_correctness": [
+                0.5600904875801009
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "son durumda bahçedeki elma ve portakal ağaçlarının sayısı nedir.",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3888888888888889
+            ],
+            "answer_relevancy": [
+                0.929889660940423
+            ],
+            "answer_correctness": [
+                0.21406632446327198
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "son durumda bahçedeki elma ve portakal ağaçlarının sayısı nedir.",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.9333333333333333
+            ],
+            "answer_relevancy": [
+                0.8154043874811672
+            ],
+            "answer_correctness": [
+                0.5130682732371661
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Tüm meyve ve sebzeler aynı anda gelseydi ilk ve son giren hangileri olurdu?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9275978433865877
+            ],
+            "answer_correctness": [
+                0.20651298301243565
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Tüm meyve ve sebzeler aynı anda gelseydi ilk ve son giren hangileri olurdu?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9129254695740499
+            ],
+            "answer_correctness": [
+                0.21304104592864276
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Tüm meyve ve sebzeler aynı anda gelseydi ilk ve son giren hangileri olurdu?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.8522569903076443
+            ],
+            "answer_correctness": [
+                0.2116176127660344
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Tüm meyve ve sebzeler aynı anda gelseydi ilk ve son giren hangileri olurdu?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9666960395879848
+            ],
+            "answer_correctness": [
+                0.21205742396198674
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Tüm meyve ve sebzeler aynı anda gelseydi ilk ve son giren hangileri olurdu?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9800155220399477
+            ],
+            "answer_correctness": [
+                0.2124903072988711
+            ],
+            "context_precision": [
+                0.49999999995
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf' un dersi geçebilmesi için son sınavdan en az kaç alması gerekir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6470588235294118
+            ],
+            "answer_relevancy": [
+                0.8560568675920726
+            ],
+            "answer_correctness": [
+                0.20198439325659717
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf' un dersi geçebilmesi için son sınavdan en az kaç alması gerekir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9561305436786296
+            ],
+            "answer_correctness": [
+                0.20451707910946745
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf' un dersi geçebilmesi için son sınavdan en az kaç alması gerekir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.2857142857142857
+            ],
+            "answer_relevancy": [
+                0.9441364734014946
+            ],
+            "answer_correctness": [
+                0.3758772533830309
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf' un dersi geçebilmesi için son sınavdan en az kaç alması gerekir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9398557085530476
+            ],
+            "answer_correctness": [
+                0.37029342267679605
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf' un dersi geçebilmesi için son sınavdan en az kaç alması gerekir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.75
+            ],
+            "answer_relevancy": [
+                0.9311731737422364
+            ],
+            "answer_correctness": [
+                0.20392916439326986
+            ],
+            "context_precision": [
+                0.36666666664833336
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar eklenmesi gerekir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.29411764705882354
+            ],
+            "answer_relevancy": [
+                0.846142970580622
+            ],
+            "answer_correctness": [
+                0.21588280312107447
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar eklenmesi gerekir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.9285714285714286
+            ],
+            "answer_relevancy": [
+                0.8267010976235643
+            ],
+            "answer_correctness": [
+                0.30910222734238524
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar eklenmesi gerekir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3076923076923077
+            ],
+            "answer_relevancy": [
+                0.8159378436876684
+            ],
+            "answer_correctness": [
+                0.2174302293399194
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar eklenmesi gerekir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8113796130750774
+            ],
+            "answer_correctness": [
+                0.920018392009088
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Sepetteki meyve sayıların eşitlenmesi için hangi meyveden ne kadar eklenmesi gerekir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.8471234274601636
+            ],
+            "answer_correctness": [
+                0.21983164218498477
+            ],
+            "context_precision": [
+                0.9999999999
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Defnenin son durumda ne kadar parası vardır?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8594468786824859
+            ],
+            "answer_correctness": [
+                0.2011931612660531
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Defnenin son durumda ne kadar parası vardır?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.36363636363636365
+            ],
+            "answer_relevancy": [
+                0.978241860121512
+            ],
+            "answer_correctness": [
+                0.3231320919279026
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Defnenin son durumda ne kadar parası vardır?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9019008519486423
+            ],
+            "answer_correctness": [
+                0.19816418060621382
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Defnenin son durumda ne kadar parası vardır?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.8892223026336593
+            ],
+            "answer_correctness": [
+                0.19622358395938702
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Defnenin son durumda ne kadar parası vardır?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.978241860121512
+            ],
+            "answer_correctness": [
+                0.197162313906535
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.7963619820949562
+            ],
+            "answer_correctness": [
+                0.9934295323490296
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.7430029180486978
+            ],
+            "answer_correctness": [
+                0.3331854885416072
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.8946078441316433
+            ],
+            "answer_correctness": [
+                0.6407974214427474
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.16666666666666666
+            ],
+            "answer_relevancy": [
+                0.8629668644671163
+            ],
+            "answer_correctness": [
+                0.3986357382320873
+            ],
+            "context_precision": [
+                0.3333333333
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Bileti alabilen kişiler kimlerdir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.781675649004791
+            ],
+            "answer_correctness": [
+                0.5127770497539852
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet en fazla kilometreyi hangi günde ne kadar gitmiştir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.9329698179401836
+            ],
+            "answer_correctness": [
+                0.21360952603994318
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet en fazla kilometreyi hangi günde ne kadar gitmiştir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.7142857142857143
+            ],
+            "answer_relevancy": [
+                0.9433147515323373
+            ],
+            "answer_correctness": [
+                0.3890788050529064
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet en fazla kilometreyi hangi günde ne kadar gitmiştir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5384615384615384
+            ],
+            "answer_relevancy": [
+                0.8873921404489628
+            ],
+            "answer_correctness": [
+                0.30096334113310547
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet en fazla kilometreyi hangi günde ne kadar gitmiştir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.8745352966615904
+            ],
+            "answer_correctness": [
+                0.5214920033920929
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet en fazla kilometreyi hangi günde ne kadar gitmiştir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9551290933059208
+            ],
+            "answer_correctness": [
+                0.21183040128443317
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet kaç dakika yürümüştür?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9359436478350593
+            ],
+            "answer_correctness": [
+                0.21452385267846952
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet kaç dakika yürümüştür?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.625
+            ],
+            "answer_relevancy": [
+                0.9002313483893406
+            ],
+            "answer_correctness": [
+                0.6053224605398311
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet kaç dakika yürümüştür?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.5482393578565923
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet kaç dakika yürümüştür?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9089223160441707
+            ],
+            "answer_correctness": [
+                0.3256522933785403
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Mehmet kaç dakika yürümüştür?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.6666666666666666
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.19261147509706783
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                0.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçim sonuçlarına göre en düşükten başlayar en yükseğe doğru sıralama nasıl olur?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5714285714285714
+            ],
+            "answer_relevancy": [
+                0.9504382509190933
+            ],
+            "answer_correctness": [
+                0.0
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçim sonuçlarına göre en düşükten başlayar en yükseğe doğru sıralama nasıl olur?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.4375
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.6524748322836712
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçim sonuçlarına göre en düşükten başlayar en yükseğe doğru sıralama nasıl olur?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.36363636363636365
+            ],
+            "answer_relevancy": [
+                0.7980563135187172
+            ],
+            "answer_correctness": [
+                0.6187363635133776
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçim sonuçlarına göre en düşükten başlayar en yükseğe doğru sıralama nasıl olur?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.4
+            ],
+            "answer_relevancy": [
+                0.8454470334336218
+            ],
+            "answer_correctness": [
+                0.7526024495678482
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Seçim sonuçlarına göre en düşükten başlayar en yükseğe doğru sıralama nasıl olur?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.25
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.40951228937177747
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf bu hafta en az kaç adet soda içmiştir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8571428571428571
+            ],
+            "answer_relevancy": [
+                1.0000000000000004
+            ],
+            "answer_correctness": [
+                0.31496079365087293
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf bu hafta en az kaç adet soda içmiştir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.3333333333333333
+            ],
+            "answer_relevancy": [
+                0.9368324749745353
+            ],
+            "answer_correctness": [
+                0.7245462204208939
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf bu hafta en az kaç adet soda içmiştir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.5
+            ],
+            "answer_relevancy": [
+                0.0
+            ],
+            "answer_correctness": [
+                0.4669647430406172
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf bu hafta en az kaç adet soda içmiştir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9507624325492272
+            ],
+            "answer_correctness": [
+                0.39966579118612294
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Yusuf bu hafta en az kaç adet soda içmiştir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9849177348324304
+            ],
+            "answer_correctness": [
+                0.9852735158316399
+            ],
+            "context_precision": [
+                0.0
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kantinde hangi ürün daha çabuk tükenir?",
+        "model": "troubadour_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.0
+            ],
+            "answer_relevancy": [
+                0.9072324061527449
+            ],
+            "answer_correctness": [
+                0.7311974946813236
+            ],
+            "context_precision": [
+                0.9166666666361111
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kantinde hangi ürün daha çabuk tükenir?",
+        "model": "matrixportal_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.4
+            ],
+            "answer_relevancy": [
+                0.8399514205395263
+            ],
+            "answer_correctness": [
+                0.21882182248801693
+            ],
+            "context_precision": [
+                0.9166666666361111
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kantinde hangi ürün daha çabuk tükenir?",
+        "model": "erdiari_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9078320615738126
+            ],
+            "answer_correctness": [
+                0.6008134503412408
+            ],
+            "context_precision": [
+                0.9166666666361111
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kantinde hangi ürün daha çabuk tükenir?",
+        "model": "cosmos_cevap",
+        "metrics": {
+            "faithfulness": [
+                1.0
+            ],
+            "answer_relevancy": [
+                0.9166377528987414
+            ],
+            "answer_correctness": [
+                0.8299326808012379
+            ],
+            "context_precision": [
+                0.9166666666361111
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    },
+    {
+        "soru": "Kantinde hangi ürün daha çabuk tükenir?",
+        "model": "mradermacher_cevap",
+        "metrics": {
+            "faithfulness": [
+                0.8
+            ],
+            "answer_relevancy": [
+                0.9024101241737016
+            ],
+            "answer_correctness": [
+                0.7295535381760321
+            ],
+            "context_precision": [
+                0.9166666666361111
+            ],
+            "context_recall": [
+                1.0
+            ]
+        }
+    }
+]
